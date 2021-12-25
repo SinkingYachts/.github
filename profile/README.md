@@ -13,10 +13,7 @@ The Vaccinator, another cool anti-malware project I'm involved with! <br>
 
 Useful links: <br>
 \- Website: [sinking.yachts](https://sinking.yachts) <br>
-\- API Docs: [phish.sinking.yachts](https://phish.sinking.yachts) <br>
-\- Email: [sinkingyachts@gmail.com](mailto:sinkingyachts@gmail.com) <br>
-\- Discord: [discord.gg/cT6eQjWW8H](https://discord.gg/cT6eQjWW8H) <br>
-\- Postman: [postman.com/sinkingyachts](https://postman.com/sinkingyachts)
+\- Discord: [discord.gg/cT6eQjWW8H](https://discord.gg/cT6eQjWW8H)
 
 SinkingYachts projects are developed, maintained, hosted, and funded by `nwunder#4003`. <br>
 \- My Site: [nwunder.com](https://nwunder.com) <br>
