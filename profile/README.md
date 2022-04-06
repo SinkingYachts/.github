@@ -9,7 +9,7 @@ or join our [Discord](https://discord.gg/cT6eQjWW8) to stay in touch!
 
 The Vaccinator, another cool anti-malware project I'm involved with! <br>
 \- Link: <https://sketchy.tel> <br>
-\- About the project: <https://sinking.yachts/docs/resources/#special-project-the-vaccinator>
+\- About the project: <https://sinking.yachts/docs/resources/#the-vaccinator>
 
 Useful links: <br>
 \- Website: [sinking.yachts](https://sinking.yachts) <br>
