@@ -7,10 +7,6 @@ At the moment, the project's only service is the anti-phishing API. I plan to la
 In the meantime, check out the [website](https://sinking.yachts/) or [blog](https://sinking.yachts/blog) for cool cybersecurity resources,
 or join our Discord to stay in touch!
 
-The Vaccinator, another cool anti-malware project I'm involved with! <br>
-\- Link: <https://sketchy.tel> <br>
-\- About the project: <https://sinking.yachts/docs/resources/#the-vaccinator>
-
 Useful links: <br>
 \- Website: [sinking.yachts](https://sinking.yachts) <br>
 \- Discord: [discord.gg/cT6eQjWW8H](https://discord.gg/bcabpA8JWv)
