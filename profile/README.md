@@ -9,7 +9,7 @@ or join our Discord to stay in touch!
 
 Useful links: <br>
 \- Website: [sinking.yachts](https://sinking.yachts) <br>
-\- Discord: [discord.gg/cT6eQjWW8H](https://discord.gg/bcabpA8JWv)
+\- Discord: [discord.gg/cT6eQjWW8H](https://discord.gg/57cbmkN7ZZ)
 
 SinkingYachts projects are developed, maintained, hosted, and funded by `nwunder#4003`. <br>
 \- My Site: [nwunder.com](https://nwunder.com) <br>
